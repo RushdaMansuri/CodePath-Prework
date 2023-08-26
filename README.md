@@ -14,18 +14,33 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
+
 ![Recording 2023-08-26 at 17 16 02](https://github.com/RushdaMansuri/CodePath-Prework/assets/101844644/2a8fdef3-a0d0-4830-8621-c78793ba9569)
 
 GIF created with ...  
-<!-- Recommended tools:
+Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-## App Brainstorming (Step 4)
+
+## App Brainstorming 
+1. Whatsapp
+   * Remove Read Receipts.
+   * Have different backgrounds for all chats.
+   * Provide an option to select manually who can see the profile picture.
+2. Hulu
+   * Entering PIN to access a profile.
+   * Changing background color.
+3. Telegram
+   * Remove the delete option of chats for everyone.
+   * Have different backgrounds for all chats.
+
+**App Idea** 
+Trucker's Den: An app that shows Truck drivers the rest area, truck stops, and weigh stations from their source to destination.
+
 ## Notes
-Describe any challenges encountered while building the app.
+Drag and control for the IBAction part was tricky.
+
 ## License
-Copyright [yyyy] [name of copyright owner]
+Copyright [2023] [Rushda Mansuri]
 Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
