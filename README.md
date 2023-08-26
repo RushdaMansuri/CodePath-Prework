@@ -14,8 +14,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
-
-![Recording 2023-08-26 at 17 16 02](https://github.com/RushdaMansuri/CodePath-Prework/assets/101844644/2a8fdef3-a0d0-4830-8621-c78793ba9569)
+![Recording 2023-08-26 at 18 15 30](https://github.com/RushdaMansuri/CodePath-Prework/assets/101844644/e6a73d95-fb16-44b6-b4f4-666811c32b50)
 
 GIF created with ...  
 Recommended tools:
