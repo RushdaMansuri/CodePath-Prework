@@ -13,6 +13,9 @@ The following **required** functionality is completed:
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
+
+![Recording 2023-08-26 at 17 16 02](https://github.com/RushdaMansuri/CodePath-Prework/assets/101844644/2a8fdef3-a0d0-4830-8621-c78793ba9569)
+
 Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
